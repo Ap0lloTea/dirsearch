@@ -7,6 +7,7 @@
 .LOCAL
 .local
 /actuator/beans
+/stzx_admin/index.html
 /actuator/configprops
 /actuator/mappings
 /actuator/metrics
