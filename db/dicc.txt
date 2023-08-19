@@ -21,6 +21,7 @@
 /wls-wsat/CoordinatorPortType
 /wls-wsat/CoordinatorPortType11
 _admin/
+/defaultroot/sp/login.jsp
 _Admin/
 account/
 Account/
