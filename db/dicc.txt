@@ -23,6 +23,7 @@
 _admin/
 /defaultroot/sp/login.jsp
 _Admin/
+/defaultroot/sp/desktop.jsp?isLogin=1
 account/
 Account/
 accounts/
