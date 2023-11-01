@@ -18,6 +18,7 @@
 /FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=/
 /FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php?Command=GetFoldersAndFiles&Type=Image&CurrentFolder=/
 /mappings
+/wls-wsat/CoordinatorPortType
 /metrics
 /wls-wsat/CoordinatorPortType
 /wls-wsat/CoordinatorPortType11
